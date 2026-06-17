@@ -75,6 +75,10 @@ Through this project, I developed:
 - DAX  
 
 ---
+## Link to PowerBI Dashboard
+[Link to my Report].(https://app.fabric.microsoft.com/view?r=eyJrIjoiZjYyOTljMDctYjc0ZS00YWY2LWI3OGUtZGVhOWU1YmUzYmQ3IiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)  
+
+---
 
 ## ✅ Summary
 This project showcases my ability to take raw retail and sales data and transform it into **impactful, interactive dashboards**, combining technical skills with storytelling to drive data-informed decisions.
